@@ -1,0 +1,9 @@
+0!-!1!-!virtualinvoke <android.telephony.TelephonyManager: java.lang.String getDeviceId()>
+1!-!1!-!virtualinvoke <android.telephony.SmsManager: void sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)>
+2!-!1!-!virtualinvoke <java.lang.StringBuilder: java.lang.String toString()>
+2!-!1!-!virtualinvoke <java.lang.String: char[] toCharArray()>
+2!-!1!-!virtualinvoke <java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>
+2!-!1!-!virtualinvoke <java.lang.StringBuilder: java.lang.StringBuilder append(char)>
+3!-!1!-!assign <char>
+4!-!0!-!<sanitization>
+5!-!7!-!<path.length>

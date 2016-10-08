@@ -1,0 +1,8 @@
+0!-!1!-!virtualinvoke <android.widget.EditText: android.text.Editable getText()>
+1!-!1!-!staticinvoke <android.util.Log: int i(java.lang.String,java.lang.String)>
+2!-!1!-!virtualinvoke <java.lang.StringBuilder: java.lang.String toString()>
+2!-!1!-!virtualinvoke <java.lang.Object: java.lang.String toString()>
+2!-!1!-!virtualinvoke <java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>
+3!-!1!-!assign <java.lang.String>
+4!-!0!-!<sanitization>
+5!-!7!-!<path.length>

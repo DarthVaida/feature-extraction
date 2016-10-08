@@ -1,0 +1,11 @@
+0!-!1!-!virtualinvoke <android.telephony.TelephonyManager: java.lang.String getDeviceId()>
+1!-!1!-!staticinvoke <android.util.Log: int i(java.lang.String,java.lang.String)>
+2!-!1!-!virtualinvoke <local.classname: void local.method()>
+2!-!1!-!specialinvoke <local.classname: void <init>(java.lang.String)>
+2!-!1!-!virtualinvoke <local.classname: void local.method(android.view.View)>
+3!-!1!-!assign <java.lang.String>
+3!-!1!-!assign <local.classname>
+3!-!1!-!assign <de.ecspride.DataLeak>
+3!-!1!-!return
+4!-!0!-!<sanitization>
+5!-!14!-!<path.length>

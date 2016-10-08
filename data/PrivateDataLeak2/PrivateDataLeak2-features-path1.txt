@@ -1,0 +1,7 @@
+0!-!1!-!virtualinvoke <local.classname: android.view.View findViewById(int)>
+1!-!1!-!staticinvoke <android.util.Log: int v(java.lang.String,java.lang.String)>
+2!-!1!-!interfaceinvoke <android.text.Editable: java.lang.String toString()>
+2!-!1!-!virtualinvoke <android.widget.EditText: android.text.Editable getText()>
+3!-!1!-!cast <android.widget.EditText>
+4!-!0!-!<sanitization>
+5!-!5!-!<path.length>

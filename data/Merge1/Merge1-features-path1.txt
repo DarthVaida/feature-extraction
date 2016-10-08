@@ -1,0 +1,8 @@
+0!-!1!-!virtualinvoke <android.telephony.TelephonyManager: java.lang.String getDeviceId()>
+1!-!1!-!virtualinvoke <android.telephony.SmsManager: void sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)>
+4!-!0!-!<sanitization>
+3!-!1!-!assign <de.ecspride.MainActivity$B>
+3!-!1!-!assign <java.lang.String>
+3!-!1!-!assign <de.ecspride.MainActivity$A>
+4!-!0!-!<sanitization>
+5!-!8!-!<path.length>

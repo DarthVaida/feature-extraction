@@ -1,0 +1,287 @@
+Path similarity measures:
+1.0            - ActivityCommunication1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - ActivityCommunication2-features-path1.txt - Vulnerable
+0.573874577461 - ActivityCommunication2-features-path3.txt - Vulnerable
+
+Path similarity measures:
+1.0            - ActivityCommunication3-features-path2.txt - Vulnerable
+0.573874577461 - ActivityCommunication3-features-path3.txt - Vulnerable
+
+Path similarity measures:
+1.0            - ActivityCommunication4-features-path2.txt - Vulnerable
+0.573874577461 - ActivityCommunication4-features-path3.txt - Vulnerable
+
+Path similarity measures:
+1.0            - ActivityCommunication5-features-path3.txt - Vulnerable
+0.573874577461 - ActivityCommunication5-features-path2.txt - Vulnerable
+
+Path similarity measures:
+1.0            - ActivityCommunication6-features-path2.txt - Vulnerable
+0.660158941835 - ActivityCommunication6-features-path3.txt - Vulnerable
+
+Path similarity measures:
+1.0            - ActivityCommunication7-features-path1.txt - Vulnerable
+0.573874577461 - ActivityCommunication7-features-path2.txt - Vulnerable
+
+Path similarity measures:
+1.0            - ActivityCommunication8-features-path1.txt - Vulnerable
+0.573874577461 - ActivityCommunication8-features-path3.txt - Vulnerable
+
+Path similarity measures:
+1.0            - ActivityLifecycle1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - ActivityLifecycle2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - ActivityLifecycle3-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - ActivityLifecycle4-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - ActivitySavedState1-features-path1.txt - Vulnerable
+0.439118410588 - ActivitySavedState1-features-path3.txt - Non-vulnerable
+
+Path similarity measures:
+1.0            - AnonymousClass1-features-path1.txt - Vulnerable
+0.966735536923 - AnonymousClass1-features-path2.txt - Vulnerable
+
+Path similarity measures:
+1.0            - ApplicationLifecycle1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - ApplicationLifecycle2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - ApplicationLifecycle3-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - ArrayAccess1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - ArrayAccess2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - ArrayCopy1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - ArrayToString1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - AsyncTask1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - AsynchronousEventOrdering1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - BroadcastReceiverLifecycle1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Button1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Button2-features-path2.txt - Vulnerable
+0.977040208397 - Button2-features-path4.txt - Vulnerable
+0.958033182253 - Button2-features-path3.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Button3-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Button4-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Button5-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path4.txt - Vulnerable
+0.287229138307 - Callbacks_Button2-release-features-path1.txt - Non-vulnerable
+0.286403803386 - Callbacks_Button2-release-features-path3.txt - Non-vulnerable
+0.269396609019 - Callbacks_Button2-release-features-path2.txt - Non-vulnerable
+
+Path similarity measures:
+1.0            - Clone1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - ComponentNotInManifest1-features-path2.txt - Vulnerable
+0.602974816038 - ComponentNotInManifest1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - ContentProvider1-features-path2.txt - Vulnerable
+0.716811741443 - ContentProvider1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - DirectLeak1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - EventOrdering1-features-path2.txt - Vulnerable
+0.759148188386 - EventOrdering1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Exceptions1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Exceptions2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Exceptions3-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Exceptions4-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Executor1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - FactoryMethods1-features-path1.txt - Vulnerable
+0.905825940963 - FactoryMethods1-features-path2.txt - Vulnerable
+
+Path similarity measures:
+1.0            - FieldSensitivity3-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - HashMapAccess1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - InheritedObjects1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - IntentSink1-features-path2.txt - Vulnerable
+0.709607420492 - IntentSink1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - IntentSink2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - IntentSource1-features-path1.txt - Vulnerable
+0.663719618469 - IntentSource1-features-path2.txt - Vulnerable
+0.522805936315 - IntentSource1-features-path3.txt - Vulnerable
+
+Path similarity measures:
+1.0            - JavaThread1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - JavaThread2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Library2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - ListAccess1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - LocationLeak1-features-path2.txt - Vulnerable
+0.99345863069 - LocationLeak1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - LocationLeak2-features-path2.txt - Vulnerable
+0.978045847429 - LocationLeak2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - LocationLeak3-features-path1.txt - Vulnerable
+0.993150713904 - LocationLeak3-features-path2.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Loop1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Loop2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Looper1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Merge1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - MethodOverride1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - MultidimensionalArray1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Obfuscation1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Parcel1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - PlayStore1-features-path1.txt - Vulnerable
+0.716811741443 - PlayStore1-features-path2.txt - Vulnerable
+
+Path similarity measures:
+1.0            - PrivateDataLeak1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - PrivateDataLeak2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - PrivateDataLeak3-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - PublicAPIField1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - PublicAPIField2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Reflection1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - RegisterGlobal1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - RegisterGlobal2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - ServiceLifecycle1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - ServiceLifecycle2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - SharedPreferenceChanged1-features-path2.txt - Vulnerable
+0.550779633946 - SharedPreferenceChanged1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - SharedPreferences1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - SourceCodeSpecific1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - StartProcessWithSecret1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - StaticInitialization2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - StringPatternMatching1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - StringToCharArray1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - StringToOutputStream1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Unregister1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - UnresolvableIntent1-features-path1.txt - Vulnerable
+0.573874577461 - UnresolvableIntent1-features-path2.txt - Vulnerable
+
+Path similarity measures:
+1.0            - VirtualDispatch1-features-path1.txt - Vulnerable
+0.995963500024 - VirtualDispatch1-features-path2.txt - Vulnerable
+
+Path similarity measures:
+1.0            - VirtualDispatch2-features-path1.txt - Vulnerable
+0.901111423165 - VirtualDispatch2-features-path2.txt - Vulnerable
+
+Path similarity measures:
+1.0            - VirtualDispatch3-features-path1.txt - Vulnerable
+

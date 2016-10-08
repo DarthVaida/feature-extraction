@@ -1,0 +1,8 @@
+0!-!1!-!virtualinvoke <android.telephony.TelephonyManager: java.lang.String getDeviceId()>
+1!-!1!-!virtualinvoke <local.classname: void startActivity(android.content.Intent)>
+2!-!1!-!interfaceinvoke <java.util.List: boolean add(java.lang.Object)>
+2!-!1!-!virtualinvoke <android.content.Intent: android.content.Intent putExtra(java.lang.String,java.lang.String)>
+2!-!1!-!interfaceinvoke <java.util.List: java.lang.Object get(int)>
+3!-!1!-!cast <android.content.Intent>
+4!-!0!-!<sanitization>
+5!-!6!-!<path.length>

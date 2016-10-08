@@ -1,0 +1,7 @@
+0!-!1!-!virtualinvoke <android.telephony.TelephonyManager: java.lang.String getDeviceId()>
+1!-!1!-!staticinvoke <android.util.Log: int i(java.lang.String,java.lang.String)>
+2!-!1!-!virtualinvoke <android.app.Activity: void onStop()>
+3!-!1!-!assign <java.lang.String>
+3!-!1!-!return
+4!-!0!-!<sanitization>
+5!-!6!-!<path.length>

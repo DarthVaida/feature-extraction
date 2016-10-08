@@ -1,0 +1,9 @@
+0!-!1!-!virtualinvoke <android.telephony.TelephonyManager: java.lang.String getDeviceId()>
+1!-!1!-!staticinvoke <android.util.Log: int i(java.lang.String,java.lang.String)>
+2!-!1!-!virtualinvoke <java.util.LinkedList: java.lang.Object get(int)>
+2!-!1!-!virtualinvoke <java.util.LinkedList: java.lang.Object clone()>
+2!-!1!-!virtualinvoke <java.util.LinkedList: boolean add(java.lang.Object)>
+3!-!1!-!cast <java.lang.String>
+3!-!1!-!cast <java.util.LinkedList>
+4!-!0!-!<sanitization>
+5!-!7!-!<path.length>

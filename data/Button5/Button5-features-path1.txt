@@ -1,0 +1,7 @@
+0!-!1!-!assign <android.view.View>
+1!-!1!-!staticinvoke <android.util.Log: int i(java.lang.String,java.lang.String)>
+2!-!1!-!interfaceinvoke <java.lang.CharSequence: java.lang.String toString()>
+2!-!1!-!virtualinvoke <android.widget.Button: java.lang.CharSequence getHint()>
+3!-!1!-!cast <android.widget.Button>
+4!-!0!-!<sanitization>
+5!-!5!-!<path.length>

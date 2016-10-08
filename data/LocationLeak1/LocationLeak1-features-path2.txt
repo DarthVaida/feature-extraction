@@ -1,0 +1,14 @@
+0!-!1!-!virtualinvoke <android.location.Location: double getLatitude()>
+1!-!1!-!staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>
+2!-!1!-!specialinvoke <local.classname: void <init>(local.classname)>
+2!-!1!-!virtualinvoke <java.lang.StringBuilder: java.lang.String toString()>
+2!-!1!-!virtualinvoke <android.app.Activity: void onResume()>
+2!-!1!-!specialinvoke <local.classname: void <init>(local.classname,local.classname)>
+2!-!1!-!staticinvoke <local.classname: void local.method(local.classname,java.lang.String)>
+2!-!1!-!staticinvoke <java.lang.Double: java.lang.String toString(double)>
+2!-!1!-!virtualinvoke <java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>
+3!-!1!-!assign <java.lang.String>
+3!-!1!-!assign <local.classname>
+3!-!1!-!return
+4!-!0!-!<sanitization>
+5!-!17!-!<path.length>

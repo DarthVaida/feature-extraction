@@ -1,0 +1,11 @@
+0!-!1!-!virtualinvoke <android.telephony.TelephonyManager: java.lang.String getDeviceId()>
+1!-!1!-!staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>
+2!-!1!-!specialinvoke <java.lang.Thread: void <init>(java.lang.Runnable)>
+2!-!1!-!interfaceinvoke <java.lang.Runnable: void run()>
+2!-!1!-!virtualinvoke <java.lang.Thread: void start()>
+2!-!1!-!specialinvoke <local.classname: void <init>(local.classname,java.lang.String)>
+3!-!1!-!assign <java.lang.String>
+3!-!1!-!assign <java.lang.Runnable>
+3!-!1!-!return
+4!-!0!-!<sanitization>
+5!-!12!-!<path.length>

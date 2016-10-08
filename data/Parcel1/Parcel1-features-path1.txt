@@ -1,0 +1,13 @@
+0!-!1!-!virtualinvoke <android.telephony.TelephonyManager: java.lang.String getDeviceId()>
+1!-!1!-!virtualinvoke <android.telephony.SmsManager: void sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)>
+2!-!1!-!virtualinvoke <android.os.Parcel: java.lang.Object readValue(java.lang.ClassLoader)>
+2!-!1!-!specialinvoke <local.classname: void <init>(java.lang.String)>
+2!-!1!-!virtualinvoke <android.os.Parcel: byte[] marshall()>
+2!-!1!-!virtualinvoke <android.os.Parcel: void writeValue(java.lang.Object)>
+2!-!1!-!virtualinvoke <android.os.Parcel: void unmarshall(byte[],int,int)>
+2!-!1!-!virtualinvoke <local.classname: void local.method(java.lang.String)>
+3!-!1!-!assign <java.lang.String>
+3!-!1!-!cast <local.classname>
+3!-!1!-!return
+4!-!0!-!<sanitization>
+5!-!12!-!<path.length>

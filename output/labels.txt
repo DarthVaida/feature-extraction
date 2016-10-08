@@ -1,0 +1,16 @@
+virtualinvoke <android.widget.EditText: android.text.Editable getText()>
+virtualinvoke <android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)>
+virtualinvoke <android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)>
+staticinvoke <android.util.Log: int i(java.lang.String,java.lang.String)>
+specialinvoke <local.classname: void <init>(local.classname)>
+virtualinvoke <java.lang.StringBuilder: java.lang.String toString()>
+staticinvoke <local.classname: java.lang.String local.method(local.classname)>
+virtualinvoke <java.lang.Object: java.lang.String toString()>
+virtualinvoke <android.view.View$OnClickListener: void onClick(android.view.View)>
+virtualinvoke <java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>
+assign <java.lang.String>
+assign <local.classname>
+return
+virtualinvoke <android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)>
+<sanitization>
+<path.length>

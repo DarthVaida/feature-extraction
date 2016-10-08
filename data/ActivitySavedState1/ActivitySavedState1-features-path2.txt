@@ -1,0 +1,6 @@
+0!-!1!-!virtualinvoke <android.telephony.TelephonyManager: java.lang.String getDeviceId()>
+1!-!1!-!virtualinvoke <android.os.Bundle: void putString(java.lang.String,java.lang.String)>
+4!-!0!-!<sanitization>
+4!-!0!-!<sanitization>
+4!-!0!-!<sanitization>
+5!-!2!-!<path.length>

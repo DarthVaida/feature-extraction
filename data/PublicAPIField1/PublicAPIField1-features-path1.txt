@@ -1,0 +1,11 @@
+0!-!1!-!virtualinvoke <android.telephony.TelephonyManager: java.lang.String getDeviceId()>
+1!-!1!-!staticinvoke <android.util.Log: int i(java.lang.String,java.lang.String)>
+2!-!1!-!virtualinvoke <java.lang.String: java.lang.String substring(int,int)>
+2!-!1!-!virtualinvoke <java.lang.StringBuilder: java.lang.String toString()>
+2!-!1!-!staticinvoke <java.lang.Float: java.lang.Float valueOf(java.lang.String)>
+2!-!1!-!virtualinvoke <java.lang.StringBuilder: java.lang.StringBuilder append(float)>
+2!-!1!-!specialinvoke <android.graphics.PointF: void <init>(float,float)>
+2!-!1!-!virtualinvoke <java.lang.Float: float floatValue()>
+3!-!1!-!assign <float>
+4!-!0!-!<sanitization>
+5!-!9!-!<path.length>

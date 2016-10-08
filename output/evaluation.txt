@@ -1,0 +1,366 @@
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.858008643751 - ActivityCommunication1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.738461667345 - ActivityCommunication2-features-path2.txt - Vulnerable
+0.619955784952 - ActivityCommunication2-features-path3.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.738461667345 - ActivityCommunication3-features-path3.txt - Vulnerable
+0.619955784952 - ActivityCommunication3-features-path2.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.738461667345 - ActivityCommunication4-features-path3.txt - Vulnerable
+0.619955784952 - ActivityCommunication4-features-path2.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.738461667345 - ActivityCommunication5-features-path2.txt - Vulnerable
+0.619955784952 - ActivityCommunication5-features-path3.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.738461667345 - ActivityCommunication6-features-path3.txt - Vulnerable
+0.728194354077 - ActivityCommunication6-features-path2.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.738461667345 - ActivityCommunication7-features-path3.txt - Vulnerable
+0.619955784952 - ActivityCommunication7-features-path2.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.738461667345 - ActivityCommunication8-features-path2.txt - Vulnerable
+0.619955784952 - ActivityCommunication8-features-path3.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.873830864757 - ActivityLifecycle1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.858008643751 - ActivityLifecycle2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.91020901605 - ActivityLifecycle3-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.858008643751 - ActivityLifecycle4-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.629719930685 - ActivitySavedState1-features-path1.txt - Vulnerable
+0.585194544226 - ActivitySavedState1-features-path3.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.910679578646 - AnonymousClass1-features-path2.txt - Vulnerable
+0.885197165332 - AnonymousClass1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.858008643751 - ApplicationLifecycle1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.887239430259 - ApplicationLifecycle2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.858008643751 - ApplicationLifecycle3-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.88861144413 - ArrayAccess1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.850121964711 - ArrayAccess2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.884646076654 - ArrayCopy1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.845827251394 - ArrayToString1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.873830864757 - AsyncTask1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.908821909398 - AsynchronousEventOrdering1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.677344721369 - BroadcastReceiverLifecycle1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.858008643751 - Button1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.978532105939 - Button2-features-path2.txt - Vulnerable
+0.954182960072 - Button2-features-path4.txt - Vulnerable
+0.930007293622 - Button2-features-path3.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.96569272439 - Button3-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.858008643751 - Button4-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.83263667091 - Button5-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.987672828785 - Callbacks_Button2-release-features-path3.txt - Vulnerable
+0.964636551361 - Callbacks_Button2-release-features-path2.txt - Vulnerable
+0.287229138307 - Callbacks_Button2-release-features-path4.txt - Non-vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.859764121625 - Clone1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.721222333645 - ComponentNotInManifest1-features-path2.txt - Vulnerable
+0.671283562607 - ComponentNotInManifest1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.641511808629 - ContentProvider1-features-path2.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.677344721369 - DirectLeak1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.875098876934 - EventOrdering1-features-path1.txt - Vulnerable
+0.730179182688 - EventOrdering1-features-path2.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.677344721369 - Exceptions1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.677344721369 - Exceptions2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.677344721369 - Exceptions3-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.781322684691 - Exceptions4-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.921932178916 - Executor1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.793886285744 - FactoryMethods1-features-path2.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.907084039902 - FieldSensitivity3-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.808507438074 - HashMapAccess1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.785616667172 - InheritedObjects1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.693951187284 - IntentSink1-features-path2.txt - Vulnerable
+0.641511808629 - IntentSink1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.741533970376 - IntentSink2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.754158514872 - IntentSource1-features-path3.txt - Vulnerable
+0.586740724701 - IntentSource1-features-path2.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.891117659307 - JavaThread1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.920152246183 - JavaThread2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.785616667172 - Library2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.856923594888 - ListAccess1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.952334480915 - LocationLeak1-features-path2.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.914084430181 - LocationLeak2-features-path2.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.956337172205 - LocationLeak3-features-path2.txt - Vulnerable
+0.953173928151 - LocationLeak3-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.876540898278 - Loop1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.876540898278 - Loop2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.856923594888 - Looper1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.903999000146 - Merge1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.677344721369 - MethodOverride1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.907887892096 - MultidimensionalArray1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.677344721369 - Obfuscation1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.911683279483 - Parcel1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.641511808629 - PlayStore1-features-path2.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.952490679822 - PrivateDataLeak1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.808507438074 - PrivateDataLeak2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.741533970376 - PrivateDataLeak3-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.889888138544 - PublicAPIField1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.677344721369 - PublicAPIField2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.850121964711 - Reflection1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.887239430259 - RegisterGlobal1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.887239430259 - RegisterGlobal2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.887239430259 - ServiceLifecycle1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.908821909398 - ServiceLifecycle2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.721222333645 - SharedPreferenceChanged1-features-path2.txt - Vulnerable
+0.601782668269 - SharedPreferenceChanged1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.677344721369 - SharedPreferences1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.741533970376 - SourceCodeSpecific1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.81267336411 - StartProcessWithSecret1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.850121964711 - StaticInitialization2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.81267336411 - StringPatternMatching1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.867938627738 - StringToCharArray1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.83263667091 - StringToOutputStream1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.880981742973 - Unregister1-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.738461667345 - UnresolvableIntent1-features-path3.txt - Vulnerable
+0.619955784952 - UnresolvableIntent1-features-path2.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.939551552168 - VirtualDispatch1-features-path1.txt - Vulnerable
+0.938903203093 - VirtualDispatch1-features-path2.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.873176195686 - VirtualDispatch2-features-path2.txt - Vulnerable
+0.825858817372 - VirtualDispatch2-features-path1.txt - Vulnerable
+
+Path similarity measures:
+1.0            - Callbacks_Button2-release-features-path1.txt - Vulnerable
+0.785616667172 - VirtualDispatch3-features-path1.txt - Vulnerable
+

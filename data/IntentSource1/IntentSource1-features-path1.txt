@@ -1,0 +1,6 @@
+0!-!1!-!virtualinvoke <local.classname: android.content.Intent getIntent()>
+1!-!1!-!virtualinvoke <local.classname: void startActivityForResult(android.content.Intent,int)>
+4!-!0!-!<sanitization>
+4!-!0!-!<sanitization>
+4!-!0!-!<sanitization>
+5!-!2!-!<path.length>

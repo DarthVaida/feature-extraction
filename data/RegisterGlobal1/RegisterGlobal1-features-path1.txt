@@ -1,0 +1,7 @@
+0!-!1!-!virtualinvoke <android.telephony.TelephonyManager: java.lang.String getDeviceId()>
+1!-!1!-!virtualinvoke <android.telephony.SmsManager: void sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)>
+2!-!1!-!virtualinvoke <android.app.Application$ActivityLifecycleCallbacks: void onActivityPaused(android.app.Activity)>
+3!-!1!-!assign <java.lang.String>
+3!-!1!-!return
+4!-!0!-!<sanitization>
+5!-!6!-!<path.length>

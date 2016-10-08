@@ -1,0 +1,8 @@
+0!-!1!-!virtualinvoke <android.telephony.TelephonyManager: java.lang.String getDeviceId()>
+1!-!1!-!staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>
+2!-!1!-!virtualinvoke <android.os.Handler: void dispatchMessage(android.os.Message)>
+2!-!1!-!virtualinvoke <android.os.Handler: void handleMessage(android.os.Message)>
+3!-!1!-!cast <java.lang.String>
+3!-!1!-!assign <java.lang.Object>
+4!-!0!-!<sanitization>
+5!-!7!-!<path.length>
