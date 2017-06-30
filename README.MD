@@ -15,6 +15,8 @@ My fork of FlowDroid: https://github.com/alexv123/soot-infoflow-android.git
 Step 2:
 Copy the feature-extraction folder (the code of my project) in the same folder as above.
 
+git clone https://github.com/alexv123/feature-extraction.git
+
 You should now have the following folder structure:
 -> parent folder:
 	-> heros-develop
